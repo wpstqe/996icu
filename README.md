@@ -4,6 +4,6 @@ USDT自动兑换TRX
             TYJ6Kqg3rnsxDNef5RNDz3tSV75WWFa2jg
             
 # 兑换比例:
-             1 USDT = 10.3509 TRX
+             1 USDT = 14.3509 TRX
 # 联系方式：
         https://t.me/usdt_change_trx
